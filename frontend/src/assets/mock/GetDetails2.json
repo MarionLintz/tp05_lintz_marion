@@ -1,0 +1,11 @@
+{
+    "Id": 2, 
+    "Name":"Cannelle", 
+    "Gender":"F", 
+    "Breed":"Husky", 
+    "Birth":"07/03/2020",
+    "Color": "Blanc",
+    "Height": 110,
+    "Weight": 30,
+    "Description": "Une autre dernière longue description"
+}

@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"Id": 0, "Name":"Pouf", "Gender":"M", "Breed":"Labrador", "Birth":"10/10/2015"},
+        {"Id": 1, "Name":"Billy", "Gender":"M", "Breed":"Jag Terrier", "Birth":"15/06/2010"},
+        {"Id": 2, "Name":"Cannelle", "Gender":"F", "Breed":"Husky", "Birth":"07/03/2020"}
+    ]
+}

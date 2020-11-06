@@ -1,0 +1,12 @@
+{
+    "/api/*": 
+    {
+        "target": "https://tp05-ml.herokuapp.com",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true,
+        "pathRewrite": {
+            "^/api": ""
+        }
+    }
+}

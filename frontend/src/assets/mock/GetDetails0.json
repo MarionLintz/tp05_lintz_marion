@@ -1,0 +1,11 @@
+{
+    "Id": 0, 
+    "Name":"Pouf", 
+    "Gender":"M", 
+    "Breed":"Labrador", 
+    "Birth":"10/10/2015", 
+    "Color":"Crème", 
+    "Height": 100,
+    "Weight": 30,
+    "Description": "Une description de produit assez longue"
+}
